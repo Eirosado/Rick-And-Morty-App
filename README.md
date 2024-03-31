@@ -1,4 +1,4 @@
-# Project Name
+# Rick & Morty App
 
 This project is a responsive application built with Angular v14, Ionic v7, and Capacitor.
 
